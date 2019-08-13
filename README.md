@@ -11,5 +11,6 @@
 3: git remote add origin <url>
 4: git pull origin master
 5: git add / git commit
-6: submit pull request to main repo
-7: accept pull request
+6: git push origin master
+7: submit pull request to main repo
+8: accept pull request
