@@ -5,3 +5,11 @@
 
 ##### Task: getting familiar with collaborations on Github
 -----------------------------------------------------
+##### Steps in updating group github
+1: fork from main repo
+2: git init in a folder of your choice
+3: git remote add origin <url>
+4: git pull origin master
+5: git add / git commit
+6: submit pull request to main repo
+7: accept pull request
